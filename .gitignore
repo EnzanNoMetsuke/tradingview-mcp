@@ -4,4 +4,8 @@ scripts/current.pine
 temp_*
 *.log
 discovery-log.json
+<<<<<<< HEAD
 rules.json
+=======
+.claude/worktrees/
+>>>>>>> 909cd24 (chore(gitignore): add claude worktrees folder to ignore list)
