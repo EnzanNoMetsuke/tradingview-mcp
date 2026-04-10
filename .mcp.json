@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "tradingview": {
-      "command": "node",
+      "command": "/Users/lynyx/.local/share/mise/shims/node",
       "args": ["/Users/lynyx/Documents/Workspaces/personal/tradingview-mcp/src/server.js"]
     }
   }
