@@ -26,9 +26,14 @@
   "packageManager": "pnpm@10.33.0",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.1",
+<<<<<<< HEAD
     "chrome-remote-interface": "^0.33.2"
   },
   "devDependencies": {
     "eslint": "^9.39.4"
+=======
+    "chrome-remote-interface": "^0.33.2",
+    "zod": "^4.3.6"
+>>>>>>> fb4a774 (chore: add missing zod dependency preventing MCP server startup)
   }
 }
